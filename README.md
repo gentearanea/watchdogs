@@ -1,2 +1,2 @@
-# watchdogs
-watchdogs使ってみるだけ
+# WIP watchdogs
+watchdogsでフォルダ監視ツール作成中
